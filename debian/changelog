@@ -1,9 +1,8 @@
-clustershell (1.4-1.1) UNRELEASED; urgency=low
+clustershell (1.4.3-1) unstable; urgency=low
 
-  * Non-maintainer upload.
-  * NOT RELEASED YET
+  * New upstream release
 
- -- Stéphan Gorget <steph@phantez.net>  Thu, 10 Feb 2011 20:09:47 +0100
+ -- Stéphan Gorget <phantez@gmail.com>  Sat, 16 Apr 2011 18:15:05 +0200
 
 clustershell (1.4-1) unstable; urgency=low
 
